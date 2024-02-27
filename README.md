@@ -10,6 +10,6 @@ Hi! I'm a Junior Backend Developer.🤖🦾<br>As a Junior programmer, I'm learn
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=omerbilalusta&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=omerbilalusta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omerbilalusta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://visitcount.itsvg.in/api?id=omerbilalusta&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omerbilalusta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://visitcount.itsvg.in/api?id=omerbilalusta&label=Profile%20Views&color=12&icon=0&pretty=false)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
